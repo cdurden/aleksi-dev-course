@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsverify": "^0.8.4",
+    "lodash": "^4.17.21"
+  }
+}
